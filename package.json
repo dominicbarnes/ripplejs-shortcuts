@@ -1,0 +1,7 @@
+{
+  "name": "ripplejs-shortcuts",
+  "version": "0.1.0",
+  "dependencies": {
+    "yields-k": "^0.7.2"
+  }
+}

@@ -1,4 +1,4 @@
-var dispatcher = require('k');
+var dispatcher = require('yields-k');
 var cache = {};
 
 function keys(name, keys) {
